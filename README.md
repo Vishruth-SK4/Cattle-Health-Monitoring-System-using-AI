@@ -1,4 +1,5 @@
-# Cattle Health API Backend
+# Cattle Health Monitoring System using AI
+# Cattle Health API Backend 
 
 A FastAPI-based backend service for cattle health diagnosis and feed recommendations.
 
