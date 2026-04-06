@@ -1,4 +1,6 @@
 # Cattle Health Monitoring System using AI
+AI-powered disease detection and feed recommendations for healthy cattle
+
 # Cattle Health API Backend 
 
 A FastAPI-based backend service for cattle health diagnosis and feed recommendations.
