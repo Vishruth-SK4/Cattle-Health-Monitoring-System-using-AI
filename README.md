@@ -1,6 +1,10 @@
 # Cattle Health Monitoring System using AI
-AI-powered disease detection and feed recommendations for healthy cattle
-
+AI-powered disease detection and feed recommendations for healthy cattle.
+This platform is designed to help farmers and cattle owners take better care of their animals.                                       
+Check cattle diseases using images – upload a photo of your cow to detect possible health issues early.
+Predict disease from symptoms – enter the symptoms you notice, and get instant diagnosis suggestions.
+Get smart feed recommendations – know exactly how much green fodder, dry fodder, and supplements your cattle need.
+          
 # Cattle Health API Backend 
 
 A FastAPI-based backend service for cattle health diagnosis and feed recommendations.
